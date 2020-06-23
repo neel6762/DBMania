@@ -1,0 +1,43 @@
+.bg-pinkGrad{
+     background: linear-gradient(to top, #333399, #ff00cc);
+    color:white;
+}
+.bg-wiretap{
+     background:linear-gradient(to right, #F27121, #E94057, #8A2387);
+    color:white;
+}
+.bg-magic{
+    background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173);
+    background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173);
+    color:white;
+}
+.bg-moonpurple{
+    background: -webkit-linear-gradient(to right, #8f94fb, #4e54c8);
+    background: linear-gradient(to right, #8f94fb, #4e54c8);
+    color:white;
+}
+.bg-black{
+    background: black;
+    color:white;
+}
+.bg-lawrencium{
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    color:white;
+}
+.bg-pinkflavour{
+    background: -webkit-linear-gradient(to right, #ffc0cb, #800080); 
+    background: linear-gradient(to right, #ffc0cb, #800080);
+    color:white;
+}
+.bg-dark-gray{
+    background: #333;
+    color:white;
+}
+.bg-light-gray{
+    background: #ededed;
+}
+.bg-deep-pink{
+    background: #FF1293;
+    color:white;
+}
